@@ -1,4 +1,4 @@
-# cse341project1
+# Brac University CSE341 Project
 Encryption Decryption software,
 1. Caesar Cipher Encryption and Decryption system
 2. Atbash Cipher Encryption and Decryption system
